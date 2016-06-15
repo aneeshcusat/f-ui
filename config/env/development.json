@@ -1,0 +1,8 @@
+{
+  "env": "development",
+  "nodeHostIP": "127.0.0.1",
+  "webserviceHostIP": "127.0.0.1",
+  "nodePort": 3000,
+  "nodeSecurePort": 8443,
+  "webservicePort": 8080
+}
